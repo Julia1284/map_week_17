@@ -7,7 +7,7 @@ import 'package:map_week_17/models/position.dart';
 import 'package:map_week_17/models/positions_repository.dart';
 import 'package:map_week_17/objectbox.g.dart';
 
-const googleApiKey = "AIzaSyBYd-LooZL8Tdxgp4gmqN67s03-Q0rM4-w";
+const googleApiKey = "ApiKey";
 late ObjectBox objectBox;
 
 Future main() async {
